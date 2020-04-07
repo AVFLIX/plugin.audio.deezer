@@ -8,7 +8,7 @@ It plays the .mp3 tracks in 128kb resolution only as that's the max available bi
 
 
 # Installation
-* Download the [latest release zip file](https://raw.githubusercontent.com/lork/DeezerKodi/master/plugin.audio.deezer/plugin.audio.deezer-0.0.7.zip) 
+* Download the [latest release zip file](https://github.com/lorkadiscovery/plugin.audio.deezer/archive/master.zip) 
 * Move it to your kodi box.
 * Install it by selecting `'Install from zip file'` in the addon menu.
 
