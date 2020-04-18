@@ -1,4 +1,9 @@
 # DeezerKodi
+
+![Build Status](https://api.travis-ci.com/AVFLIX/plugin.audio.deezer.svg?branch=master)
+![License](https://img.shields.io/badge/license-GPL--3.0--only-success.svg)
+![Kodi Version](https://img.shields.io/badge/kodi-matrix%2B-success.svg)
+
 This is an unofficial Deezer addon for Kodi.  
 It works **only for premium account** (Deezer doesn't allow streaming from free accounts).
 Right now this addon works only for family accounts, personal accounts support will be added soon.
