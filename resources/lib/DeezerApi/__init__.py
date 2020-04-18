@@ -228,7 +228,7 @@ class IterableCollection(object):
         self._iterable_index = 0
         return self
 
-    def next(self):
+    def __next__(self):
         item = self._retrieve_item(self._iterable_index)
         self._iterable_index += 1
         if item is None:
