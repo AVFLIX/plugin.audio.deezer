@@ -1,5 +1,6 @@
 # DeezerKodi
 
+![Codacy Badge](https://api.codacy.com/project/badge/Grade/76abfdb57fa04c1897cacaa1a638a1e2)
 ![Build Status](https://api.travis-ci.com/AVFLIX/plugin.audio.deezer.svg?branch=master)
 ![License](https://img.shields.io/badge/license-GPL--3.0--only-success.svg)
 ![Kodi Version](https://img.shields.io/badge/kodi-matrix%2B-success.svg)
